@@ -19,10 +19,11 @@ Classification on images of cats and dogs using transfer learning with a pretrai
 Coursework
 ----------
 
-[Learning to play smartcab game with Q-Learning](https://github.com/taylormitchell/smartcab)
+[Finding Donors](https://github.com/taylormitchell/taylormitchell.github.io/blob/master/nbs/finding_donors.ipynb)<br>
+Created model to predict individual’s income brackets using data collected for the U.S. census.<br>
+`Data Processing` `Structured Data` `Scikit-Learn`
+
+[Learning to play smartcab game with Q-Learning](https://github.com/taylormitchell/smartcab)<br>
 Created an agent which could learn to navigate a simple driving world using Q-Learning. Completed as part of Udacity Machine Learning Nanodegree.<br>
 `Reinforcement Learning`
 
-[Finding Donors](https://github.com/taylormitchell/smartcab)
-Created model to predict individual’s income brackets using data collected for the U.S. census.<br>
-`Scikit-Learn` `Structured Data` `Data Processing`
