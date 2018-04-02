@@ -1,1 +1,3 @@
-data/
+nbs/data/
+nbs/models/
+nbs/.ipynb_checkpoints/
